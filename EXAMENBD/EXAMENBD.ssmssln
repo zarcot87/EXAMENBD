@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "RECETAS", "RECETAS\RECETAS.ssmssqlproj", "{8724750A-BE8D-4F6E-9705-14A79D2C9CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8724750A-BE8D-4F6E-9705-14A79D2C9CF1}.Default|Default.ActiveCfg = Default
+		{1072C658-D538-467A-9CCE-D9C4717AC3D0}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7731BD4B-2FAC-4DAC-A891-EB46F539F3D1}
+	EndGlobalSection
+EndGlobal
